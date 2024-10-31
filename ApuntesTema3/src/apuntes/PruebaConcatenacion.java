@@ -1,4 +1,4 @@
-package diapositivas;
+package apuntes;
 
 public class PruebaConcatenacion {
 
